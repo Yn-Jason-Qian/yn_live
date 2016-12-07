@@ -1,0 +1,21 @@
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+
+# txt.bak
+*.bak
+
+#svn
+/.svn/
+
+#build
+/build
+
+#class file
+*.class
+
+.classpath
+.project
+/.settings
