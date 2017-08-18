@@ -1,22 +1,39 @@
-# Windows:
+.classpath
+.project
+*~
+~*
+*.swp
+*.swo
+*.pyc
+*.iml
+*.eml
+.idea/
+tags
+.~lock.*
+*.ipr
+*.iws
+.pydevproject
+.DS_Store
+
+.settings/
+.gradle/
+.git/
+
+
+-# Windows:
 Thumbs.db
 ehthumbs.db
 Desktop.ini
-
-
-# txt.bak
+-
+-
+-# txt.bak
 *.bak
-
-#svn
+-
+-#svn
 /.svn/
-
-#build
+-
+-#build
 /build
-
-#class file
+-
+-#class file
 *.class
-
-.classpath
-.project
-live/.settings/ 
-
